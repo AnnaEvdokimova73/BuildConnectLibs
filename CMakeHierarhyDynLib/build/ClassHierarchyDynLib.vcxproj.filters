@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\equaltrian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\figure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\isotrian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\parall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\quadrilateral.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\recttrian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\rhombus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\equaltrian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\figure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\isotrian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\parall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\quadrilateral.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\recttrian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\rhombus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\ClassHierarchyDynLib\triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4274D5A6-9932-32C5-91B9-3E1795A3FC69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0BA5EBBA-0DD7-323D-9CA0-DB63183FACF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

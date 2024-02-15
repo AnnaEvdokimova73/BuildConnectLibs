@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeAddLib\src\LeaverDynLib\Leaver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeAddLib\src\LeaverDynLib\Leaver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Нетология дз\BuildConnectLibs\CMakeAddLib\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3F5155EB-62E0-3FD2-BF10-A3DA2751F974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{651EEAE5-31C6-3FA4-B1C2-C2144EA8DBD9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

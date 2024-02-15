@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\classHierarchy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Нетология дз\BuildConnectLibs\CMakeHierarhyDynLib\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4274D5A6-9932-32C5-91B9-3E1795A3FC69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0BA5EBBA-0DD7-323D-9CA0-DB63183FACF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

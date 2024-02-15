@@ -1,8 +1,0 @@
-# ninja log v5
-6	1205	7292864397292622	CMakeFiles/CMakeAddLib.dir/CMakeAddLib.cpp.obj	ff100bd35be8fed2
-1207	1895	7292864403630176	CMakeAddLib.exe	d09c77bc132a7f24
-7	906	7292889422582762	CMakeFiles/CMakeLeaverLib.dir/CMakeLeaverLib/Leaver.cpp.obj	6fbbd5bae43eee2c
-26	1665	7292889430142855	CMakeFiles/CMakeAddLib.dir/CMakeAddLib.cpp.obj	ff100bd35be8fed2
-906	2467	7292889437486391	CMakeLeaverLib.dll	83f766f5b515dca7
-906	2467	7292889437486391	CMakeLeaverLib.lib	83f766f5b515dca7
-2467	3203	7292889444033533	CMakeAddLib.exe	b5c73454a66f1d3d
